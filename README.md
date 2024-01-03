@@ -1,14 +1,11 @@
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
-<h3 align="center">VMD-Tcl-Structural-Alignment-and-Binding-Analysis-of-CDK2 </h3>
+<h3 align="center">VMD-Tcl-Structural-Alignment-and-Binding-Analysis-of-CDK2 🧬</h3>
 
   <p align="center">
     Department of Bioinformatics, IBB, University of Tehran
@@ -16,34 +13,23 @@
   </p>
 </div>
 
-
-
-
-## Languages Used
+## Languages Used 💻
 
 Tcl 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Installation 🚀
 
-### Installation
-
-VMD(Visual Molecular Dynamics).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[VMD (Visual Molecular Dynamics)](https://www.ks.uiuc.edu/Research/vmd/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
-## Contact
+## Contact 📧
 
 Fereshteh Noroozi - [@LinkedIn](https://ir.linkedin.com/in/fereshteh-noroozi-a90886118?original_referer=https%3A%2F%2Fwww.google.com%2F) 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -51,8 +37,6 @@ Fereshteh Noroozi - [@LinkedIn](https://ir.linkedin.com/in/fereshteh-noroozi-a90
 Department of Bioinformatics, IBB, University of Tehran
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
